@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaxjordo
 - 👀 I’m interested in web development, learning to create responsive web pages
-- 🌱 I’m currently learning front end development and NodeJS
+- 🌱 I’m currently learning back end development, foucosing on Python lang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
