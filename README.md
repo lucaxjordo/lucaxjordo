@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucaxjordo
-- 👀 I’m interested in web development, ADS Student
+- 👋 Hi, I’m Lucas Oliveira!
+- 👀 ADS student, learning software development.
 - 🌱 I’m currently learning back end development, foucosing on Python and Java lang.
 - 📫 How to reach me: www.linkedin.com/in/lucasxoliva
   
