@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas Oliveira!
 - 👀 ADS student, learning software development.
 - 🌱 I’m currently learning back end development, foucosing on Java, Python and JS langs.
-- 📫 How to reach me: www.linkedin.com/in/lucasxoliva
+- 📫 How to reach me: www.linkedin.com/in/lucasxoliva  |   lucasviniciusoliveira094@gmail.com
   
 
 <!---
