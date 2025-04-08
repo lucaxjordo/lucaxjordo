@@ -13,7 +13,11 @@ Estou em constante evolução na área de tecnologia, transformando desafios em 
   
 #
 
-<img align="right" alt="" height="175px" src="coding.gif">
+<picture>
+  <source media="(max-width: 600px)" srcset="coding.gif" height="130">
+  <source media="(min-width: 601px)" srcset="coding.gif" height="175">
+  <img align="right" src="coding.gif" alt="" style="height:auto; max-width:100%;">
+</picture>
 
 <h3 align="left">Connect with me!</h3>
 
